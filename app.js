@@ -1,1 +1,1 @@
-console.log( 'Olá Mundo' );//o ponto e virgula no final em java script e opcional
+console.log( 'Ola Mundo' );//o ponto e virgula no final em java script e opcional
