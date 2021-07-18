@@ -8,4 +8,15 @@ let c; //celsius
 
 c = (f - 32) * 5/9;//números entre parenteses terá prioridade na ordem de cálculo
 
-console.log(c);
+console.log('celsius '+c);
+
+
+//Converter Celsius Para Graus Fahrenheit   Fórmula	(90 °C × 9/5) + 32 = 194 °F
+
+
+c = 90
+f = 0;
+f = (c * 9/5) + 32;
+
+
+console.log('Fahrenheit '+f);
