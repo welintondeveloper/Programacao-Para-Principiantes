@@ -1,4 +1,4 @@
-console.log('exercício 6 Tabuada for');
+console.log('exercício 7 Tabuada for');
 
 
 let calcularNumero = 9;//aqui vai o numero que pretendo calcular
