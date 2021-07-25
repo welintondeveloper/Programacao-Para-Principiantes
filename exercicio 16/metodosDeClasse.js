@@ -1,4 +1,4 @@
-console.log('exercício 15 Métodos De classe');
+console.log('exercício 16 Métodos De classe');
 
 
 class Carro {//classe
